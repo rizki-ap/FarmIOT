@@ -1,5 +1,5 @@
 # FarmIOT
-Hidroponic, Aquaponic with IOT for TelkomUniversity Development
+Hidroponic, Aquaponic automation system with IOT for TelkomUniversity Research
 
 **Version-1
 
