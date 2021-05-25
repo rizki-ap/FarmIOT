@@ -6,10 +6,12 @@ Hidroponic, Aquaponic automation system with IOT for TelkomUniversity Research
 Using modules :
 - PH-sensor of PH-4502C
 - EC/TDS sensor 
+- DHT-22 Air Temperature and Humidity Sensor
+- GUVA-based UV sensor
 - ESP32 module for wifi+BLE
 - Arduino-Nano for sensor reading and control
 - 5-pin 5v relays
-- 
+- 7-24vdc power supply
 
 IOT server method:
 
